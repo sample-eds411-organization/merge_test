@@ -1,0 +1,11 @@
+This is a test for merge conflicts.
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+# code goes here
+```
+
+
