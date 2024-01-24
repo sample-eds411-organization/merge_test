@@ -5,7 +5,7 @@ library(tidyverse)
 ```
 
 ```{r}
-# code goes here
+head(diamonds)  
 ```
 
 
