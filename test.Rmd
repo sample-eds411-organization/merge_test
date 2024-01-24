@@ -5,7 +5,9 @@ library(tidyverse)
 ```
 
 ```{r}
+head(diamonds)  
 filter(diamonds, cut == 'Ideal')
+
 ```
 
 
